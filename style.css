@@ -54,3 +54,10 @@
     height: 150px;
     cursor: pointer;
   }
+}.select > div > img {
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50%;
+  }
+  
