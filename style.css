@@ -152,11 +152,11 @@
     left: 0;
   }
   .result-msg.active.yellow {
-    /* background-color: #FFC538; */
+    background-color: #FFC538;
   }
   .result-msg.active.red {
-    /* background-color: #fb778b; */
+    background-color: #fb778b;
   }
   .result-msg.active.green {
-    /* background-color: #5AB7AC; */
+    background-color: #5AB7AC;
   }
