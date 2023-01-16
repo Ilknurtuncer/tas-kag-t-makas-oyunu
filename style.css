@@ -81,4 +81,9 @@
     background-color: black;
     color: gray;
   }
+  .main-container {
+    margin: auto;
+    width: 50%;
+    margin-top: 50px;
+  }
   
