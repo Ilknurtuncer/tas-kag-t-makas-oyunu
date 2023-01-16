@@ -130,9 +130,9 @@
     font-family: "Comfortaa", cursive;
     cursor: pointer;
   }
-  /* .modal button:hover {
+  .modal button:hover {
     transform: translate(3px, 0px);
     transition: all 0.5s;
-    background-color: #222222; */
+    background-color: #222222;
     /* border: none; */
   }
