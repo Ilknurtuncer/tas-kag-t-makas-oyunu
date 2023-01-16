@@ -134,5 +134,5 @@
     transform: translate(3px, 0px);
     transition: all 0.5s;
     background-color: #222222;
-    /* border: none; */
+    border: none;
   }
