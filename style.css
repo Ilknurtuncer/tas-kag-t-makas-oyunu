@@ -136,3 +136,27 @@
     background-color: #222222;
     border: none;
   }
+  .result {
+    overflow: hidden;
+    /* margin-top: 1rem; */
+  }
+  .result-msg {
+    position: relative;
+    font-family: "Oswald", sans-serif;
+    left: -120%;
+    padding: 1rem 0;
+    transition: all 0.5s ease;
+    text-align: center;
+  }
+  .result-msg.active {
+    left: 0;
+  }
+  .result-msg.active.yellow {
+    /* background-color: #FFC538; */
+  }
+  .result-msg.active.red {
+    /* background-color: #fb778b; */
+  }
+  .result-msg.active.green {
+    /* background-color: #5AB7AC; */
+  }
