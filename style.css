@@ -37,3 +37,7 @@
     flex-direction: row;
     color: #bdbdbd;
   }
+  .score > div {
+    padding: 15px;
+    font-size: 30px;
+  }
