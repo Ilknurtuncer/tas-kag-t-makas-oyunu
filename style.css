@@ -65,6 +65,7 @@
   }
   .match {
     display: flex;
+    justify-content: center;
   }
   .match img {
     width: 70%;
