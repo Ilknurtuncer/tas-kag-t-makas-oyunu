@@ -48,3 +48,9 @@
     border-bottom: 1px solid #bdbdbd78;
     text-align: center;
   }
+  .select {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    cursor: pointer;
+  }
