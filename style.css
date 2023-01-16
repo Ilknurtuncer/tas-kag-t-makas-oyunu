@@ -138,7 +138,7 @@
   }
   .result {
     overflow: hidden;
-    /* margin-top: 1rem; */
+    margin-top: 1rem;
   }
   .result-msg {
     position: relative;
