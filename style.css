@@ -66,6 +66,9 @@
   .match {
     display: flex;
   }
+  .match img {
+    width: 70%;
+  }
   img {
     border-radius: 50%;
   }
@@ -86,4 +89,3 @@
     width: 50%;
     margin-top: 50px;
   }
-  
