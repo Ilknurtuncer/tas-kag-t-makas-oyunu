@@ -63,4 +63,7 @@
   .select > div > img:hover {
     box-shadow: #aeadbb 0px 5px 20px;
   }
+  .match {
+    display: flex;
+  }
   
