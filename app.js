@@ -1,4 +1,4 @@
-const tasImage = document.querySelector(".tas")
+/*const tasImage = document.querySelector(".tas")
 const kagitImage = document.querySelector(".kagit");
 const makasImage = document.querySelector(".makas");
 
@@ -15,4 +15,4 @@ kagitImage.addEventListener('click',(e)=>{
 makasImage.addEventListener('click',(e)=>{
     console.log(e)
     yourChoice.innerHTML = `<img src="./assets/makas.png"></img>`;
-}) 
+}) */
