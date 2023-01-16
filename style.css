@@ -69,4 +69,16 @@
   img {
     border-radius: 50%;
   }
+  button {
+    border: none;
+    padding: 7px 7px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  button:hover {
+    outline: 2px solid gray;
+    background-color: black;
+    color: gray;
+  }
   
